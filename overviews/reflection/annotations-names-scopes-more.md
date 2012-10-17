@@ -13,7 +13,6 @@ Coming soon!
 ## FlagSets
 ## Names
 ## Positions
-## Printers
 ## Scopes
 ## StandardDefinitions
 ## StandardNames
