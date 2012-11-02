@@ -5,8 +5,9 @@ title: Symbols, Trees, and Types
 partof: reflection
 num: 3
 ---
+Coming soon!
 
-Scala reflection can be thought of in two ways.
+<!-- Scala reflection can be thought of in two ways.
 
 Scala reflection does three things:
 
@@ -23,4 +24,4 @@ Symbols have a number of things- they contain a name (`Name`), a type (`Type`), 
 
 ## Trees
 
-## Types
+## Types -->
